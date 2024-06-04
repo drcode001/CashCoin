@@ -1,0 +1,31 @@
+/* config */
+
+/* diseño */
+h1{
+    margin: 24px;
+    text-align: center;
+}
+.caja{
+    width: 100%;
+    height: 200px;
+    background: yellow;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.input-group{
+    margin-top: 36px;
+}
+a{
+    padding: 12px;
+    background: linear-gradient(
+        150deg,
+        #f7ff8b,
+        #fcc100,
+        #8f8501
+    ); 
+    border-radius:12px;
+    text-decoration: none;
+    margin-left: 12px;
+}
+    
